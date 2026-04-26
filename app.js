@@ -81,7 +81,7 @@ const siteConfig = {
     {
       name: "team A",
       code: "TMA",
-      city: "Lynden",
+      city: "Donaldsonville",
       record: "5W 1D 0L",
       note: "?",
       color: "#00b7d7",
@@ -89,7 +89,7 @@ const siteConfig = {
     {
       name: "team B",
       code: "TMB",
-      city: "Montclair",
+      city: "Naperville",
       record: "4W 1D 1L",
       note: "?",
       color: "#22c55e",
@@ -97,7 +97,7 @@ const siteConfig = {
     {
       name: "team C",
       code: "TMC",
-      city: "Port Azul",
+      city: "chicago",
       record: "4W 0D 2L",
       note: "?",
       color: "#f2c14e",
@@ -105,7 +105,7 @@ const siteConfig = {
     {
       name: "team D",
       code: "TMD",
-      city: "Eastbay",
+      city: "denver",
       record: "3W 1D 2L",
       note: "?",
       color: "#ff6b5e",
