@@ -1,4 +1,4 @@
-# PlayGTA5 offline
+# READ AND DO NOT SHARE TO OTHERS
 
 Complete archived website with both map options and a bundled Windows x64 Python runtime.
 Extract the entire ZIP before running. No Python installation is required.
