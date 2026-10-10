@@ -1,8 +1,9 @@
 # READ AND DO NOT SHARE TO OTHERS
 
-Complete archived website with both map options and a bundled Windows x64 Python runtime.
-Extract the entire ZIP before running. No Python installation is required.
+it is already extracted, run launch-local.cmd and itll open local host, KEEP THE CMD WINDOW OPEN, press ctrl c to end your server.
 
+
+detailed one
 ## Launch on this PC
 
 Double-click `Launch-Local.cmd`. It opens http://localhost:8000/ in your default
